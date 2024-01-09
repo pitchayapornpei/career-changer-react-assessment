@@ -4,8 +4,6 @@ import { useState } from "react";
 function Admin({ employees }) {
 
 
-
-
     const [username, setUsername] = useState("");
     const [password, setPassword] = useState("");
     const [fullname, setFullname] = useState("");
