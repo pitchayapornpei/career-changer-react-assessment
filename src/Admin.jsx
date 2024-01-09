@@ -161,6 +161,7 @@ function Admin({ employees }) {
                 </table>
             </div>
         </div>
+
     );
 }
 
